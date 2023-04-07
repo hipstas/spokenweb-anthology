@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The SpokenWeb Digital Anthology " ] },
+    "summary": { "en": [ "This is an anthology of annotated literary recordings from SpokenWeb and contextualizing essays." ] },
+    "items": [
+    ]
+}
