@@ -8,3 +8,4 @@
 layout: home
 ---
 Testing landing page
+[trent's page](/The-speed-of-darkness)
