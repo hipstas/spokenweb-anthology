@@ -8,4 +8,4 @@
 layout: home
 ---
 Testing landing page
-[trent's page](The-speed-of-darkness)
+[trent's page](git@github.com:hipstas/The-speed-of-darkness.git)
