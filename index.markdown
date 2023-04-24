@@ -17,16 +17,16 @@ layout: home
 
 - Introduction to *The SpokenWeb Digital Anthology* by Zoe Bursztajn-Illingworth and Tanya Clement 
 
-- Out of the Cage: Michael McClure and the Digital Lyric Archive by Matthew Kilbane 
+- [Out of the Cage: Michael McClure and the Digital Lyric Archive](https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/) by Matthew Kilbane 
 
-- Annotating a Duality of Spaces in Muriel Rukeyser's *The Speed of Darkness* by Trent Wintermeier 
+- [Annotating a Duality of Spaces in Muriel Rukeyser's *The Speed of Darkness*](https://hipstas.github.io/The-speed-of-darkness/) by Trent Wintermeier 
 
-- Formulating Affinities and Defiances through Discomfort by Nadège Paquette 
+- [Formulating Affinities and Defiances through Discomfort](https://hipstas.github.io/performance-reading-acker/) by Nadège Paquette 
 
-- Hearing Lived Experience by Rachel Pickard, Emily Murphy, and Karis Shearer 
+- [Hearing Lived Experience](https://hipstas.github.io/hearing-lived-experience/) by Rachel Pickard, Emily Murphy, and Karis Shearer 
 
-- Paranoid Desire by Zach Morrison 
+- [Paranoid Desire](https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/) by Zach Morrison 
 
 - Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s by Teddie Brock
 
-- Sonic Layers is in Small Stones by Miranda Eastwood 
+- [Sonic Layers in Small Stones](https://hipstas.github.io/small-stones-sonic-layers/) by Miranda Eastwood 
