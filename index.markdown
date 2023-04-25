@@ -14,9 +14,8 @@ layout: home
 
 ![image](https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png)
 <figcaption>Cover art by Trent Winteremeier</figcaption>
-
-
-
+<br>
+<br>
 ### Table of Contents
 
 - Introduction to *The SpokenWeb Digital Anthology* by Zoe Bursztajn-Illingworth and Tanya Clement 
