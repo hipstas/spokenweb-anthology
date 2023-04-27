@@ -29,6 +29,6 @@ layout: home
 
 - [Paranoid Desire](https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/) by Zach Morrison 
 
-- Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s by Teddie Brock
+- [Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s](https://hipstas.github.io/sfu-poetry-panel) by Teddie Brock
 
 - [Sonic Layers in Small Stones](https://hipstas.github.io/small-stones-sonic-layers/) by Miranda Eastwood 
