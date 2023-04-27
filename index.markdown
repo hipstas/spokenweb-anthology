@@ -17,7 +17,7 @@ layout: home
 <br>
 ### Table of Contents
 
-- Introduction to *The SpokenWeb Digital Anthology* by Zoe Bursztajn-Illingworth and Tanya Clement 
+- [Introduction to *The SpokenWeb Digital Anthology*](https://hipstas.github.io/anthology-introduction/) by Zoe Bursztajn-Illingworth and Tanya Clement 
 
 - [Out of the Cage: Michael McClure and the Digital Lyric Archive](https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/) by Matthew Kilbane 
 
