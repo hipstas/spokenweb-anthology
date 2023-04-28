@@ -8,6 +8,7 @@ layout: home
 ### Edited by Zoe Bursztajn-Illingworth and Tanya Clement 
 
 ### Table of Contents
+<p>
 
 - [Introduction to *The SpokenWeb Digital Anthology*](https://hipstas.github.io/anthology-introduction/) by Zoe Bursztajn-Illingworth and Tanya Clement 
 
@@ -24,6 +25,8 @@ layout: home
 - [Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s](https://hipstas.github.io/sfu-poetry-panel) by Teddie Brock
 
 - [Sonic Layers in Small Stones](https://hipstas.github.io/small-stones-sonic-layers/) by Miranda Eastwood 
+  
+</p>
 
 <p align="center"><img align="right" width="35%" height="35%" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/>
 <figcaption>Cover art by Trent Winteremeier</figcaption>
