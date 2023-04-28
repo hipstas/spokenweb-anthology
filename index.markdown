@@ -9,8 +9,8 @@ layout: home
 
 ### Table of Contents
 
-<p align="center"><img align="right" width="35%" height="35%" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/>
-<figcaption>Cover art by Trent Winteremeier</figcaption>
+<p align="center"><img align="right" width="35%" height="35%" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/><figcaption>Cover art by Trent Winteremeier</figcaption></p>
+
 
 <ul><li><a href="https://hipstas.github.io/anthology-introduction/">Introduction</a> by Zoe Bursztajn-Illingworth</li>
 
