@@ -12,7 +12,7 @@ layout: home
 <p align="center"><img align="right" width="35%" height="35%" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/>
 <figcaption>Cover art by Trent Winteremeier</figcaption>
 
-<ul><li>Introduction to <a href="https://hipstas.github.io/anthology-introduction/">The SpokenWeb Digital Anthology</a> by Zoe Bursztajn-Illingworth and Tanya Clement </li>
+<ul><li><a href="https://hipstas.github.io/anthology-introduction/">Introduction</a> by Zoe Bursztajn-Illingworth</li>
 
 <li>[Out of the Cage: Michael McClure and the Digital Lyric Archive](https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/) by Matthew Kilbane </li>
 
