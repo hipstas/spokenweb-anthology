@@ -17,7 +17,7 @@ layout: home
 
 <li><a href="https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/">Out of the Cage: Michael McClure and the Digital Lyric Archive</a> by Matthew Kilbane </li>
 
- <li><a href="https://hipstas.github.io/The-speed-of-darkness/">Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i> by Trent Wintermeier</li> 
+ <li><a href="https://hipstas.github.io/The-speed-of-darkness/">Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i></a> by Trent Wintermeier</li> 
 
 <li>[Formulating Affinities and Defiances through Discomfort](https://hipstas.github.io/performance-reading-acker/) by Nadège Paquette</li> 
 
