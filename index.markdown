@@ -9,7 +9,7 @@ layout: home
 
 ### Table of Contents
 
-<div align="center"><figure><img align="right" width="35%" height="35%" alt="Cover art by Trent Winteremeier" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/><figcaption>Cover art by Trent Winteremeier</figcaption> </figure></div>
+<p align="center"><img align="right" width="35%" height="35%" alt="Cover art by Trent Winteremeier" src="https://user-images.githubusercontent.com/70542175/234410382-cab5cffe-8fd7-4831-a6c4-8e5069dc6ad0.png"/>Cover art by Trent Winteremeier</p>
 
 
 <ul>
