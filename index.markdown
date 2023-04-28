@@ -9,7 +9,7 @@ layout: home
 
 ### Edited by Zoe Bursztajn-Illingworth and Tanya Clement 
 
-### Table of Contents
+## Table of Contents
 <ul>
  <li><a href="https://hipstas.github.io/anthology-introduction/">Introduction</a> by Zoe Bursztajn-Illingworth</li>
 
