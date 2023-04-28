@@ -19,15 +19,15 @@ layout: home
 
  <li><a href="https://hipstas.github.io/The-speed-of-darkness/">Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i></a> by Trent Wintermeier</li> 
 
-<li>[Formulating Affinities and Defiances through Discomfort](https://hipstas.github.io/performance-reading-acker/) by Nadège Paquette</li> 
+ <li><a href="https://hipstas.github.io/performance-reading-acker/">Formulating Affinities and Defiances through Discomfort</a>by Nadège Paquette</li> 
 
-<li>[Hearing Lived Experience](https://hipstas.github.io/hearing-lived-experience/) by Rachel Pickard, Emily Murphy, and Karis Shearer</li>
+ <li><a href="https://hipstas.github.io/hearing-lived-experience/">Hearing Lived Experience</a> by Rachel Pickard, Emily Murphy, and Karis Shearer</li>
 
-<li>[Paranoid Desire](https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/) by Zach Morrison </li>
+<li><a href="https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/">Paranoid Desire</a> by Zach Morrison </li>
 
-<li>[Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s](https://hipstas.github.io/sfu-poetry-panel) by Teddie Brock</li>
+<li><a href="https://hipstas.github.io/sfu-poetry-panel">Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s</a>by Teddie Brock</li>
 
-<li>[Sonic Layers in Small Stones](https://hipstas.github.io/small-stones-sonic-layers/) by Miranda Eastwood </li>
+ <li><a href="https://hipstas.github.io/small-stones-sonic-layers/">Sonic Layers in Small Stones</a> by Miranda Eastwood </li>
  </ul>
 <figcaption>Cover art by Trent Winteremeier</figcaption>
 
