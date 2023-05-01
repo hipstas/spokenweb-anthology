@@ -23,7 +23,7 @@ layout: home
 
 <li><a href="https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/">Paranoid Desire</a> by Zach Morrison </li>
 
-<li><a href="https://hipstas.github.io/sfu-poetry-panel">Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s</a>by Teddie Brock</li>
+<li><a href="https://hipstas.github.io/sfu-poetry-panel">Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s</a> by Teddie Brock</li>
 
  <li><a href="https://hipstas.github.io/small-stones-sonic-layers/">Sonic Layers in Small Stones</a> by Miranda Eastwood </li>
  </ul>
