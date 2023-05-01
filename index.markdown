@@ -17,7 +17,7 @@ layout: home
 
  <li><a href="https://hipstas.github.io/The-speed-of-darkness/">Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i></a> by Trent Wintermeier</li> 
 
- <li><a href="https://hipstas.github.io/performance-reading-acker/">Formulating Affinities and Defiances through Discomfort</a>by Nadège Paquette</li> 
+ <li><a href="https://hipstas.github.io/performance-reading-acker/">Formulating Affinities and Defiances through Discomfort</a> by Nadège Paquette</li> 
 
  <li><a href="https://hipstas.github.io/hearing-lived-experience/">Hearing Lived Experience</a> by Rachel Pickard, Emily Murphy, and Karis Shearer</li>
 
