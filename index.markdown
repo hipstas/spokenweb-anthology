@@ -21,7 +21,7 @@ layout: home
 
  <li><a href="https://hipstas.github.io/hearing-lived-experience/">Hearing Lived Experience</a> by Rachel Pickard, Emily Murphy, and Karis Shearer</li>
 
-<li><a href="https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/">Paranoid Desire</a> by Zach Morrison </li>
+<li><a href="https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/">Paranoid Desire</a> by Zach Morrison </li>
 
 <li><a href="https://hipstas.github.io/sfu-poetry-panel">Annotating Literary Modernism: Canadian Modernism of the 1930s and 1940s</a> by Teddie Brock</li>
 
