@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Contributor Bios
 permalink: contributor-bios
 ---
