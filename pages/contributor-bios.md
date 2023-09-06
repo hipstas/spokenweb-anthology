@@ -44,5 +44,5 @@ Zach Morrison is a PhD Student in the Department of English and Film Studies at 
 #### **Teddie Brock, University of British Columbia** 
 Teddie Brock is currently completing her MA in the Department of English at Simon Fraser University. As a graduate student, her research on practices of listening through field recording and contemporary poetry explored the intersections of urban space and digital infrastructure. Her other interests include information systems design, neurodiversity, dementia care advocacy, and the politics of caregiving.
 
-#### Miranda Eastwood, Concordia University 
+#### **Miranda Eastwood, Concordia University** 
 Miranda Eastwood is a Montreal-based transmedia artist, having recently completed their master’s degree in English Literature and Creative Writing at Concordia University. Their studies revolved around sound—having been the previous Sound Designer and Audio Engineer for the SpokenWeb Podcast—and their thesis featured a full-length script of an audio drama. They are currently working in interactive media as a narrative designer. 
